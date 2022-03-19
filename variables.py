@@ -25,3 +25,8 @@ BookName = "Dracula"  # Pascal Case
 # Const PI
 PI = 3.1416
 MY_NAME = "John"
+
+# Dinamic Type
+var_name = "I Robot"
+var_name = 12121212
+print(var_name)  # 12121212
